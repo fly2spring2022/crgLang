@@ -1,7 +1,15 @@
-# crgLang 1.0.0
+# crgLang
 
 **crgLang** 是一门专为撰写 AI prompt 和生成结构化内容而设计的编程语言。它提供了一种简单而强大的语法，用于定义输入模块和模板，以便动态生成内容。与传统编程语言不同，**crgLang** 利用 AI 模型进行解释和执行，使用户能够专注于撰写有效的提示，而无需担心解析器或编译器。
 **crg**：**C**reative **R**esearch **G**roup（创意研究小组）；**Lang**：**Lang**uage（语言）。
+
+Author: fly2spring  
+Name: crgLang  
+Version: 1.0.0  
+Ai_Model:  
+Date: 10/03/2024  
+
+---
 
 ## 特性
 
