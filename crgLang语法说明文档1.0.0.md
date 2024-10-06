@@ -19,6 +19,12 @@
 ## 概述
 **crgLang** 是一种专为 AI Prompt 生成而设计的编程语言，面向自然语言处理中的大语言模型（如 GPT-4）的交互和应用。由于 crgLang 的解析器和编译器本身就是 AI 模型，所以它具备极大的灵活性，能够处理自然语言中的复杂表达，简化了代码执行的过程。
 
+Author: fly2spring  
+Name: crgLang  
+Version: 1.0.0  
+Ai_Model:  
+Date: 10/07/2024  
+
 ---
 
 ## 元数据声明
@@ -32,7 +38,7 @@
 name: "程序名称"
 version: "版本号"
 author: "作者姓名"
-date: "YYYY-MM-DD"
+date: "MM-DD-YYYY"
 supported_models: ["模型A", "模型B"]
 ```
 
